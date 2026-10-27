@@ -1,0 +1,12 @@
+{
+  "appId": "com.kiloobsidian.amoled.tracker",
+  "appName": "KiloObsidian",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "backgroundColor": "#000000",
+  "android": {
+    "allowMixedContent": true,
+    "captureInput": true,
+    "webContentsDebuggingEnabled": false
+  }
+}

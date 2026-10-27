@@ -1,0 +1,6 @@
+{
+  "name": "KiloObsidian — Suivi de Poids, IMC & Balance Connectée",
+  "description": "Application Android minimaliste True Black AMOLED de suivi de poids, IMC, connexion Bluetooth balances Xiaomi, synchronisation Google Fit / Health Connect, sauvegarde chiffrée E2EE, exports PDF/CSV et visualiseur 3D.",
+  "requestFramePermissions": ["bluetooth"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
